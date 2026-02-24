@@ -1,4 +1,4 @@
-# generated: 2025-11-29
+# generated: 2026-02-23
 # project: IHSPAX
 # tracking_system: file-system
 # story_location: docs/sprint-artifacts
@@ -28,14 +28,14 @@
 # - SM typically drafts next story after previous one is 'done' to incorporate learnings
 # - Dev moves story to 'review', SM reviews, then Dev moves to 'done'
 
-generated: 2025-11-29
+generated: 2026-02-23
 project: IHSPAX
 tracking_system: file-system
 story_location: docs/sprint-artifacts
 
 development_status:
   # Epic 1: Foundation
-  epic-1: contexted
+  epic-1: done
   1-1-project-initialization: done
   1-2-supabase-project-setup: done
   1-3-core-database-schema: done
@@ -44,7 +44,7 @@ development_status:
   epic-1-retrospective: done
 
   # Epic 1.5: Public Landing Page (B-Lite Strategy)
-  epic-1-5: contexted
+  epic-1-5: done
   1-5-1-landing-page-foundation: done
   1-5-2-seo-analytics-foundation: done
   1-5-3-app-launch-integration: done
